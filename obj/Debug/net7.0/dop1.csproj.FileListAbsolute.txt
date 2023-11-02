@@ -1,0 +1,15 @@
+D:\isevcenco\WORK\GEEK BRAINS\GB С#\practica\dop1\bin\Debug\net7.0\dop1.exe
+D:\isevcenco\WORK\GEEK BRAINS\GB С#\practica\dop1\bin\Debug\net7.0\dop1.deps.json
+D:\isevcenco\WORK\GEEK BRAINS\GB С#\practica\dop1\bin\Debug\net7.0\dop1.runtimeconfig.json
+D:\isevcenco\WORK\GEEK BRAINS\GB С#\practica\dop1\bin\Debug\net7.0\dop1.dll
+D:\isevcenco\WORK\GEEK BRAINS\GB С#\practica\dop1\bin\Debug\net7.0\dop1.pdb
+D:\isevcenco\WORK\GEEK BRAINS\GB С#\practica\dop1\obj\Debug\net7.0\dop1.csproj.AssemblyReference.cache
+D:\isevcenco\WORK\GEEK BRAINS\GB С#\practica\dop1\obj\Debug\net7.0\dop1.GeneratedMSBuildEditorConfig.editorconfig
+D:\isevcenco\WORK\GEEK BRAINS\GB С#\practica\dop1\obj\Debug\net7.0\dop1.AssemblyInfoInputs.cache
+D:\isevcenco\WORK\GEEK BRAINS\GB С#\practica\dop1\obj\Debug\net7.0\dop1.AssemblyInfo.cs
+D:\isevcenco\WORK\GEEK BRAINS\GB С#\practica\dop1\obj\Debug\net7.0\dop1.csproj.CoreCompileInputs.cache
+D:\isevcenco\WORK\GEEK BRAINS\GB С#\practica\dop1\obj\Debug\net7.0\dop1.dll
+D:\isevcenco\WORK\GEEK BRAINS\GB С#\practica\dop1\obj\Debug\net7.0\refint\dop1.dll
+D:\isevcenco\WORK\GEEK BRAINS\GB С#\practica\dop1\obj\Debug\net7.0\dop1.pdb
+D:\isevcenco\WORK\GEEK BRAINS\GB С#\practica\dop1\obj\Debug\net7.0\dop1.genruntimeconfig.cache
+D:\isevcenco\WORK\GEEK BRAINS\GB С#\practica\dop1\obj\Debug\net7.0\ref\dop1.dll
